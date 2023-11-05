@@ -7,5 +7,5 @@
    
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3hmetciftci&show_icons=true&locale=en" alt="m3hmetciftci" width=50% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3hmetciftci&" alt="m3hmetciftci" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3hmetciftci&" alt="m3hmetciftci" Width=%50 />
 
